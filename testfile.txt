@@ -1,3 +1,5 @@
 io am manchal sharma ,we are learnning devops 
 
 ha bhai kya chal rahai ,git ke bare , tum sale kubernates nahi padhao ge !!, hum abhi ko bol rahe haio 
+
+hum tum ek kamre mai band hoo
